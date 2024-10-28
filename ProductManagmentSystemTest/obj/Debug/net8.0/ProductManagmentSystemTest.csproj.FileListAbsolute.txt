@@ -1,0 +1,5 @@
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystemTest\obj\Debug\net8.0\ProductManagmentSystemTest.csproj.AssemblyReference.cache
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystemTest\obj\Debug\net8.0\ProductManagmentSystemTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystemTest\obj\Debug\net8.0\ProductManagmentSystemTest.AssemblyInfoInputs.cache
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystemTest\obj\Debug\net8.0\ProductManagmentSystemTest.AssemblyInfo.cs
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystemTest\obj\Debug\net8.0\ProductManagmentSystemTest.csproj.CoreCompileInputs.cache

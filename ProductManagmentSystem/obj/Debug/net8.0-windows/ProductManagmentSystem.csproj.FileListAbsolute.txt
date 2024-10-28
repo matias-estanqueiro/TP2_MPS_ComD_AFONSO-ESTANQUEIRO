@@ -1,0 +1,16 @@
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.MainForm.resources
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.csproj.GenerateResource.cache
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.AssemblyInfo.cs
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\bin\Debug\net8.0-windows\ProductManagmentSystem.exe
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\bin\Debug\net8.0-windows\ProductManagmentSystem.deps.json
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\bin\Debug\net8.0-windows\ProductManagmentSystem.runtimeconfig.json
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\bin\Debug\net8.0-windows\ProductManagmentSystem.dll
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\bin\Debug\net8.0-windows\ProductManagmentSystem.pdb
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.dll
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\refint\ProductManagmentSystem.dll
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.pdb
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ProductManagmentSystem.genruntimeconfig.cache
+C:\Users\matias\source\repos\TP2_MPS_ComD_AFONSO-ESTANQUEIRO\ProductManagmentSystem\obj\Debug\net8.0-windows\ref\ProductManagmentSystem.dll
