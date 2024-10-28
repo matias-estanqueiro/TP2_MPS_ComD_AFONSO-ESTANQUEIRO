@@ -26,10 +26,7 @@ La solución incluye dos proyectos:
 ### Instalación
 
 1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/usuario/ProductManagementSystem.git
-    cd ProductManagementSystem
-    ```
+
 2. Abre la solución en Visual Studio.
 
 3. **Configura las Referencias**:
